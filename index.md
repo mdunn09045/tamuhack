@@ -20,7 +20,7 @@ description: >
 baseurl: "/tamuhack" # the subpath of your site
 url: "https://steveortiz.github.io"
 email: steve@ortizaggies.com
-github_username:  steveortiz
+github_username:  mdunn09045
 linkedin_username: trustycoder
 twitter_username: trustycoder
 {% endhighlight %}
